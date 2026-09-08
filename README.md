@@ -1,48 +1,39 @@
-<h1 align="center">Gabriel Pedrosa</h1>
+# Gabriel da Silva Pedrosa
 
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas na Unifor &nbsp;|&nbsp; Desenvolvedor Full Stack
-</p>
+Desenvolvedor full stack em Fortaleza, Ceará. Dois sistemas que escrevi rodam
+todo dia no Hospital Municipal de Pacatuba.
 
-<p align="center">
-  <a href="mailto:[gaprielpedrosa@proton.me]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+Antes de programar, trabalhei no almoxarifado desse hospital. Vi onde o processo
+travava e escrevi o software. Toco o ciclo inteiro sozinho: levantamento de
+requisitos com quem vai usar, modelagem do banco, interface, deploy e suporte.
 
----
+## Em produção
 
-### Sobre
+**SIGCH**, gestão de chamados de
+manutenção hospitalar. 74 chamados no período, 91% concluídos, tempo médio de
+resolução de 8h11min. Quatro perfis de acesso aplicados por Row Level Security
+no PostgreSQL, tempo calculado por trigger, painel de TV nos corredores.
 
-Curso o 3º semestre de ADS na Universidade de Fortaleza (Unifor), modalidade EAD. Trabalho com desenvolvimento web full stack, com React no front-end e Python (Django/FastAPI) no back-end. Os dois projetos em andamento são sistemas para uso hospitalar. Estudo inglês para futuras oportunidades de trabalho fora do Brasil.
+**Logis Atlas**, controle de
+estoque e almoxarifado, multi-tenant. 5.035 entradas e 2.340 saídas registradas
+em agosto de 2026. Etiquetas com QR impressas pelo sistema e inventário rotativo
+com divergência item a item.
 
----
+O código dos dois é privado, porque rodam em ambiente hospitalar com dado real.
+Os repositórios acima têm a documentação técnica: problema, modelo de dados,
+desenho das políticas de acesso e as decisões por trás delas.
 
-### Stack
+## Stack
 
-**Front-end**
+JavaScript, SQL, React 19, Vite, Tailwind CSS, PostgreSQL com Supabase, Git,
+Linux, Vercel. Estudando Java com Spring Boot, testes automatizados e
+arquitetura de APIs.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+## Formação
 
-**Back-end e banco de dados**
+Análise e Desenvolvimento de Sistemas na Unifor, conclusão em 2028.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
+## Contato
 
-**Ferramentas**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-
----
-
-### Projetos
-
-#### SIGCH - sistema de gerenciamento de chamados hospitalares
-
-Sistema web para abertura e acompanhamento de chamados em ambiente hospitalar. Construído com React e Supabase. Está em produção.
-
----
+E-mail: gabrielpedrosa346@gmail.com
