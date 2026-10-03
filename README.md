@@ -1,7 +1,7 @@
 # Gabriel da Silva Pedrosa
 
 Desenvolvedor full stack júnior em Fortaleza, Ceará. Dois sistemas que escrevi
-rodam todo dia no Hospital Municipal de Pacatuba.
+rodam todo dia no Hospital Municipal Raimundo Célio Rodrigues, em Pacatuba (CE).
 
 Antes de programar, trabalhei no almoxarifado desse hospital. Vi onde o processo
 travava e escrevi o software. Toco o ciclo inteiro sozinho: levantamento de
